@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:       telecharger_icpe_georiques.py
+# Purpose:    télécharger les ICPE à partir de l'API Géorisques
 #
-# Author:      vincent.rouillard
+# Authors:    Vincent Rouillard, Pierre-Maxime Micalef
 #
 # Created:     09/11/2023
-# Copyright:   (c) vincent.rouillard 2023
-# Licence:     <your licence>
+# Copyright:   
+# Licence:     MIT
 #-------------------------------------------------------------------------------
 
 
